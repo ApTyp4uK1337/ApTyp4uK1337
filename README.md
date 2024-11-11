@@ -3,7 +3,6 @@
 
 <div align="center">
   
-# 👋 Hello <br>![](https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue)
+# 👋 Hello <br><br>![](https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue)<br><br>
   
-<br><br><br>
 </div>
