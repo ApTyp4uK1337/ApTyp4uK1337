@@ -7,6 +7,4 @@
   
 </div>
 
-<!--START_SECTION:waka-->
-SHOW_TOTAL_CODE_TIME 
-<!--END_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="center"/>
