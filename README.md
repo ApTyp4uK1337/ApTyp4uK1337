@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# 👋 Hello <br><br><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue" title="Profile views since Nov 11 2024"/><br><br>
+# 👋 Hello <br><br><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue" title="Profile views since Nov 11 2024"/> <img src="https://wakatime.com/badge/user/6db15369-505b-42e4-81ad-92d655474dda.svg" title="Total time coded Sep 12 2022"/><br><br>
   
 </div>
 
