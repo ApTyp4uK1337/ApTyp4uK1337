@@ -9,11 +9,8 @@
 
 </div>
 
-# Skills
-<img src="https://skillicons.dev/icons?i=php,js,py,nodejs,go,html,css,mysql,postgres,linux,ps,figma,postman,cloudflare,notion&perline=5">
-
-# Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
+# Languages and Tools
+<img src="https://skillicons.dev/icons?i=php,js,py,nodejs,go,html,css,lua,mysql,postgres,nginx,windows,linux,ps,figma,git,postman,cloudflare,notion,vscode&perline=10">
 
 # Contact
 
