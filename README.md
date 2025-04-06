@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# 👋 Hello <br><br><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue" title="Profile views since Nov 11 2024"/>&nbsp;<a href="https://wakatime.com/@6db15369-505b-42e4-81ad-92d655474dda"><img src="https://wakatime.com/badge/user/6db15369-505b-42e4-81ad-92d655474dda.svg" alt="Total time coded since Sep 12 2022" /></a><br><br>
+# 👋 Hello, world! <br><br><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blue" title="Profile views since Nov 11 2024"/>&nbsp;<a href="https://wakatime.com/@6db15369-505b-42e4-81ad-92d655474dda"><img src="https://wakatime.com/badge/user/6db15369-505b-42e4-81ad-92d655474dda.svg" alt="Total time coded since Sep 12 2022" /></a><br><br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="center"/>
 
