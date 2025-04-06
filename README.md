@@ -14,4 +14,5 @@
 
 # Contact
 
-<a href="https://t.me/aptyp4uk1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>
+<a href="https://t.me/aptyp4uk1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>&nbsp;<a href="mailto:aptyp4uk1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+" title="GMail"></a>
