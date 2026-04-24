@@ -34,15 +34,6 @@ I don’t just write code — I build complete working products.
 
 ---
 
-## ⚙️ Core Expertise
-
-- ⚙️ Backend architecture & API design  
-- 🤖 Telegram bots & ecosystems (multi-service systems)  
-- 🔁 Automation & scraping pipelines  
-- 🔐 Reverse engineering & API analysis  
-- 🌐 Web3 integrations & smart contract interaction  
-- 🧠 High-load system design  
-
 # 🧰 Tech Stack
 
 <p align="center">
