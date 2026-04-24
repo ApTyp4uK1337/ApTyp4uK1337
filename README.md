@@ -7,7 +7,10 @@
 # 👋 Hello, world! 
 ###### Backend systems · Telegram bots · Web3 · Automation · Reverse Engineering
 
-<a href="https://github.com/aptyp4uk1337"><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=blueviolet" title="Profile views since Nov 11 2024"/></a>&nbsp;<a href="https://wakatime.com/@6db15369-505b-42e4-81ad-92d655474dda"><img src="https://wakatime.com/badge/user/6db15369-505b-42e4-81ad-92d655474dda.svg" alt="Total time coded since Sep 12 2022" target="_blank"/></a>&nbsp;<a href="https://github.com/aptyp4uk1337?tab=repositories"><img src="https://img.shields.io/github/stars/aptyp4uk1337?style=flat&label=Stars&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=&logoColor=white&color=orange&labelColor=gray" title="Profile views since Nov 11 2024"/></a>&nbsp;<img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Contributions&logo=graph&logoColor=white&color=brightgreen&labelColor=gray&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daptyp4uk1337%26type%3Djson">
+<a href="https://github.com/aptyp4uk1337" title="Profile views since Nov 11 2024"><img src="https://komarev.com/ghpvc/?username=ApTyp4uK1337&color=111827"/></a>&nbsp;
+<a href="https://wakatime.com/@6db15369-505b-42e4-81ad-92d655474dda" title="Total time coded since Sep 12 2022"><img src="https://wakatime.com/badge/user/6db15369-505b-42e4-81ad-92d655474dda.svg?color=111827"/></a>&nbsp;
+<a href="https://github.com/aptyp4uk1337?tab=repositories" title="Total stars count"><img src="https://img.shields.io/github/stars/aptyp4uk1337?style=flat&label=Stars&color=111827"/></a>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Contributions&color=111827&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Daptyp4uk1337%26type%3Djson" title="Total contributions count">
 <br>
 
 ---
@@ -31,15 +34,67 @@ I don’t just write code — I build complete working products.
 
 # 💣 Languages & Tools
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,py,nodejs,go,html,css,lua,mysql,postgres,nginx,windows,linux,ps,figma,git,postman,cloudflare,notion,vscode&perline=10">
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4">
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8">
 
-</div>
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D">
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639">
+<img src="https://img.shields.io/badge/Servers-0D1117?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020">
+
+<br>
+
+<img src="https://img.shields.io/badge/Telegram Bots-0D1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=zap&logoColor=yellow">
+<img src="https://img.shields.io/badge/Web Scraping-0D1117?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Parsers-0D1117?style=for-the-badge&logo=scrapy&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Reverse Engineering-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
+<img src="https://img.shields.io/badge/API Analysis-0D1117?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Protocol Analysis-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7">
+<img src="https://img.shields.io/badge/Penetration Testing-0D1117?style=for-the-badge&logo=bugcrowd&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=web3.js&logoColor=F16822">
+<img src="https://img.shields.io/badge/Ethers.js-0D1117?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/DeFi-0D1117?style=for-the-badge&logo=chainlink&logoColor=375BD2">
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37">
+<img src="https://img.shields.io/badge/VS Code-0D1117?style=for-the-badge&logo=vscodium&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E">
+<img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white">
+
+</p>
 
 ## 🌐 Links
 
-<a href="https://aptyp4uk1337.xyz/"><img src="https://img.shields.io/badge/Website-060606?logo=rocket&logoColor=white" title="Website"></a>&nbsp;<a href="https://t.me/aptyp4uk1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" title="Telegram"></a>&nbsp;<a href="https://x.com/aptyp4uk1337"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" title="X"></a>&nbsp;<a href="https://wakatime.com/@aptyp4uk1337"><img src="https://img.shields.io/badge/WakaTime-35434f?logo=wakatime&logoColor=white" title="WakaTime"></a>
+<div align="center">
+
+<a href="https://aptyp4uk1337.xyz/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=rocket&logoColor=white" title="Website"></a>&nbsp;
+<a href="https://t.me/aptyp4uk1337"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>&nbsp;
+<a href="https://x.com/aptyp4uk1337"><img src="https://img.shields.io/badge/X.COM-111827?style=for-the-badge&logo=X&logoColor=white" title="X.COM"></a>&nbsp;
+<a href="https://wakatime.com/@aptyp4uk1337"><img src="https://img.shields.io/badge/WakaTime-111827?style=for-the-badge&logo=wakatime&logoColor=white" title="WakaTime"></a>
+
+</div>
 
 ## 📬 Contact Me
 
