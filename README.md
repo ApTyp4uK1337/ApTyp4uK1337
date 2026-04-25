@@ -17,7 +17,7 @@
 
 </div>
 
-## 🧩 About Me
+<img src="https://i.postimg.cc/d3vtWm5L/Bez-imeni-1.jpg" align="center" title="About Me">
 
 Backend developer focused on building reliable, scalable systems.
 
@@ -34,9 +34,10 @@ I don’t just write code — I build complete working products.
 
 ---
 
-# 🧰 Tech Stack
-
 <p align="center">
+
+<img src="https://i.postimg.cc/ZKs43Szn/Bez-imeni-1.jpg" title="Tech Stack">
+<br><br>
 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4">
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933">
@@ -102,23 +103,25 @@ I don’t just write code — I build complete working products.
 <img src="https://img.shields.io/badge/ReadMe-0D1117?style=for-the-badge&logo=readme&logoColor=018EF5">
 <img src="https://img.shields.io/badge/VuePress-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 
+---
 
 </p>
 
-## 🌐 Links
-
 <div align="center">
+
+<img src="https://i.postimg.cc/BvxrhWk7/Bez-imeni-1.jpg" title="Connect">
+<br><br>
 
 <a href="https://aptyp4uk1337.xyz/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=rocket&logoColor=white" title="Website"></a>&nbsp;
 <a href="https://t.me/aptyp4uk1337"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"></a>&nbsp;
 <a href="https://x.com/aptyp4uk1337"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=X&logoColor=white" title="X"></a>&nbsp;
 <a href="https://wakatime.com/@aptyp4uk1337"><img src="https://img.shields.io/badge/WakaTime-111827?style=for-the-badge&logo=wakatime&logoColor=white" title="WakaTime"></a>
 
+---
+
 </div>
 
-## 📬 Contact Me
-
-**💬 Open to work, freelance & collaborations**  
+<img src="https://i.postimg.cc/3Rtb63BV/Bez-imeni-1.jpg" align="center" title="Contact Me">
 
 ▸ Telegram: <a href="https://t.me/aptyp4uk1337_bot?start=utm-github">@aptyp4uk1337_bot</a>  
 ▸ Discord: <a href="https://discord.com/users/841963614398578708">@aptyp4uk1337</a>  
